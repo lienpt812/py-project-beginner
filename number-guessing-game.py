@@ -29,7 +29,3 @@ try:
     else: print(f"Oops, out of chances.. The correct number is {num_correct}. Better luck next time!")
 except ValueError as e:
     print(e)
-
-
-
-    
